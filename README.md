@@ -7,7 +7,7 @@ A mobile-first redesign prototype of asianchess.com. It is a static site with no
 Serve the folder with any static web server and open it in a browser:
 
 ```
-cd acf-site
+cd asian-chess-federation
 python3 -m http.server 8000
 # open http://localhost:8000
 ```
