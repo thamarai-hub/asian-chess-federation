@@ -60,3 +60,5 @@ For production, connect these screens to the existing WordPress backend (or anot
 - Enforce every permission on the server. The hidden buttons in this prototype are not security.
 
 The full audit, sitemap, design system and launch checklist are on the site at `#notes`.
+
+Deployment refresh
